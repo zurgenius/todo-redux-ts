@@ -2,10 +2,10 @@
 
 ## Tech stack:
 
-- React
-- Typescript
-- Redux Toolkit
-- TailwindCSS
+- React (frontend framework)
+- Typescript for type-checking
+- Redux Toolkit for state management
+- TailwindCSS for styles
 - Vite for bundling
   
 App made in learning purposes 
