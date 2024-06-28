@@ -1,6 +1,6 @@
-#Minimal todo-list app 
+# Minimal todo-list app 
 
-##Tech stack:
+## Tech stack:
 
 - React
 - Typescript
